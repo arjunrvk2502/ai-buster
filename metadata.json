@@ -1,0 +1,8 @@
+
+{
+  "name": "AI-Buster",
+  "description": "A professional-grade forensic tool for detecting AI-manipulated imagery using Vision Transformers (ViT) and CNN architectures, providing real-time analysis and detailed digital fingerprinting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
